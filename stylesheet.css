@@ -1,0 +1,15 @@
+body {
+	color: #0000FF;
+	font-family: "Times New Roman", Georgia, serif;
+}
+
+h1 {
+	font-size: 30px;
+	color: #009900;
+	text-align: center;
+}
+
+p {
+	font-size: 15px;
+	text-align: center;
+}
